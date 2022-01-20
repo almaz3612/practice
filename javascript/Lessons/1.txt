@@ -1,0 +1,11 @@
+console.log('я не хочу в армейку(');
+console.log("Катю люблю");
+let myName = 'Almaz';
+let myAge = 19;
+let myTruth = "Я сильно тебя люблю"
+console.log("my name is: "+myName);
+console.log("my age is: "+myAge);
+console.log(myAge+" "+myName);
+console.log(`${myAge}     ${myName}`);
+console.log(`my name is:${myName}`);
+// alert("Катя, я тебя очень сильно люблю!")
